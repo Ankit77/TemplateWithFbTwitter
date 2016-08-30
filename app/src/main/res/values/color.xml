@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <color name="colorPrimary">#5f50e1</color>
+    <color name="colorPrimaryTransparent">#335f50e1</color>
+    <color name="colorPrimaryDark">#4432b9</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#5f50e1</color>
+
+    <color name="floting_bg_color">#f64c4c</color>
+
+    <color name="dark_navy_blue">#00274B</color>
+    <color name="navy_blue">#00305D</color>
+    <color name="light_navy_blue">#192544</color>
+    <color name="subtitle_blue">#00A7BD</color>
+    <color name="blue_tab_indicator">#0EAABF</color>
+    <color name="red">#E80000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="row_view">#D7D7D7</color>
+    <color name="title_comman_color">#626161</color>
+    <color name="color_black">#000000</color>
+    <color name="color_rectangle_background">#b2b2b2</color>
+    <color name="rippelColor">#0099CC</color>
+
+
+
+    <color name="color_main">#15AFF1</color>
+    <color name="color_main_light">#8dd8f8</color>
+    <color name="color_text_light">#a9a9a9</color>
+    <color name="color_light_trans_black">#40000000</color>
+    <color name="color_dark_trans_black">#cc000000</color>
+
+    <!-- Font Color -->
+    <color name="font_navy_blue">#0E3351</color>
+    <color name="font_white">#FFFFFF</color>
+    <color name="font_dark_orange">#E87B1E</color>
+    <color name="font_dark_grey">#333333</color>
+    <color name="font_medium_grey">#5F5F5F</color>
+    <color name="font_light_grey">#999999</color>
+    <color name="font_red">#C8260C</color>
+
+    <color name="getActionbar">#111F4B</color>
+
+    <color name="actionbar_color">#bf360c</color>
+    <color name="drawer_arrow_second_color">#303f9f</color>
+    <color name="ldrawer_color">#FFFFFF</color>
+
+
+
+    <!-- Menu Section color -->
+    <color name="menu_section_color">#ECEFF6</color>
+    <color name="menu_list_color">#4a4a4a</color>
+    <color name="menu_list_Select_color">#f64c4c</color>
+
+    <dimen name="menu_header_image_width_hieght">70dp</dimen>
+
+</resources>

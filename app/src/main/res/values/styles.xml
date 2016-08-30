@@ -1,0 +1,42 @@
+<resources>
+
+
+    <style name="AppTheme" parent="MyMaterialTheme.Base">
+
+    </style>
+
+    <style name="MyMaterialTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <!--<item name="android:windowBackground">@drawable/background_splash</item>-->
+    </style>
+
+
+
+
+    <style name="tvAdapterRow">
+        <item name="android:layout_width">wrap_content </item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@android:color/primary_text_dark</item>
+        <item name="android:textSize">@dimen/font_18sp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+
+
+    <style name="tvActionbarTitle">
+        <item name="android:layout_width">wrap_content </item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/font_white</item>
+        <item name="android:textSize">@dimen/font_14sp</item>
+    </style>
+
+
+</resources>

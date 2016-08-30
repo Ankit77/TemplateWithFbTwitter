@@ -1,0 +1,115 @@
+<resources>
+
+
+    <!-- App level strings -->
+
+    <string name="app_name">Template</string>
+    <string name="base_url">http://www.brnetwork.com/reststaging/api.php/</string>
+    <string name="wsHeader">application/json</string>
+    <string name="settings">Settings</string>
+
+    <!-- FAcebook App id -->
+    <!--<string name="facebook_app_id">1646388738920557</string>-->
+    <string name="facebook_app_id">619869108184166</string>
+
+    <!-- twitter Api key -->
+    <string name="twitterConsumerKey">KJxp15fT6TU6PTYl8M0tIIphk</string>
+    <string name="twitterConsumerSecretKey">Nsv5QYZmFtDanU7zcflP8iBfD9oxlAt8NqluPRgtK667xjF5Js</string>
+
+
+    <!-- Common strings -->
+
+    <string name="please_wait">Please wait&#8230;</string>
+    <string name="check_connection">Check your network connection</string>
+    <string name="check_gps">Check your GPS enable</string>
+    <string name="some_error_occurred">Some Error Occurred</string>
+
+
+    <!--LoginActivity-->
+
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="keep_login">Keep me logged in</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="forgot_password_que">Forgot Password?</string>
+    <string name="sign_up">Sign-Up</string>
+    <string name="facebook_login">Login with facebook</string>
+    <string name="twitter_login">Login with twitter</string>
+
+    <!--ForgotPassword Activity-->
+
+    <string name="email">Email</string>
+    <string name="submit">Submit</string>
+
+
+    <!--SignUp Activity-->
+
+    <string name="firstname">First Name</string>
+    <string name="companyname">Company Name</string>
+    <string name="Phone_no">Phone No</string>
+    <string name="address">Address</string>
+
+
+    <!-- Validation Strings Start -->
+
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="err_msg_firstname">Enter the firstname</string>
+    <string name="err_msg_compnayname">Enter the company name</string>
+    <string name="err_msg_phonenumber">Enter the phone number</string>
+    <string name="err_msg_pinnumber">Enter the pin number</string>
+    <string name="err_msg_address">Enter the adrress</string>
+
+    <string name="val_enter_email">Please enter your registerd email ID</string>
+    <string name="val_enter_password">Please enter your password</string>
+    <string name="val_enter_firstname">Please enter your FirstName</string>
+    <string name="val_enter_companyname">Please enter your CompanyName</string>
+    <string name="val_enter_email_in">Enter Email in</string>
+    <string name="val_valid_email">abc@example.com formate.</string>
+    <string name="val_valid_credentials">Please enter valid login credentials</string>
+    <string name="val_enter_registerd_email">Please enter registerd email</string>
+    <string name="val_min_password_lenth">Minimum 6 character password required</string>
+    <string name="val_password_match">Confirm Password not matched.</string>
+    <string name="val_select_picture">Please select picture first</string>
+    <string name="enter_all_requierd_data">Please enter all requierd data.</string>
+
+    <!-- Validation Strings Ends -->
+
+
+    <!-- Common perameters strings -->
+
+    <string name="params_request">request</string>
+    <string name="params_service">service</string>
+    <string name="params_method">method</string>
+
+    <!--Login Activity perameters-->
+
+    <string name="params_userID">userId</string>
+    <string name="params_email">username</string>
+    <string name="params_password">password</string>
+    <string name="params_deviceID">deviceId</string>
+    <string name="params_apiKey">APIKey</string>
+    <string name="params_notificationDeviceToken">notificationDeviceToken</string>
+    <string name="params_notificationDeviceType">notificationDeviceType</string>
+
+
+    <!--Sign Activity perameters-->
+
+    <string name="params_firstname">fullName</string>
+    <string name="params_companyname">company</string>
+    <string name="params_mobile_phone">mobile_phone</string>
+    <string name="params_address">address</string>
+    <string name="params_pincode">pincode</string>
+
+    <!-- PreferenceData -->
+    <string name="prefe_userID">userID</string>
+    <string name="prefe_IsLogin">IsLogin</string>
+    <string name="prefe_userName">username</string>
+    <string name="prefe_userPic">Picture</string>
+
+
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="closeDrawer">Navigation View</string>
+
+</resources>
